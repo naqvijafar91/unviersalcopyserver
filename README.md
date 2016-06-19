@@ -5,6 +5,11 @@ that text anywhere in your laptop using the Desktop Client.
 
 Note:This is the server  for Universal Copy Paste.
 
+This project requires 3 projects to run:
+1-**[Desktop Client](https://github.com/naqvijafar91/universalcopydesktopclient)**
+2-**[Android Application](https://github.com/naqvijafar91/universalcopyandroidclient)**
+3-**[Server](https://github.com/naqvijafar91/unviersalcopyserver)**
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
